@@ -2,7 +2,7 @@
 - 👀 Recuerden que ser anonima es la mejor arma que tenemos las activistas
 - 🌱 Esta archiva es una manual y reglamenta. todas mis fuentes son completamente seguras jamás les daría algo que vulnere sus datos
 - 💞️ Esta archiva es para crear una red de activistas con lo menos de vulneracion de datos posibles 
-- 📫 Cualquier duda con respecto a este Manual y Reglamento escribeme con el Asunto "TuNombreDeCapucha".txt ejemplo: StarbucksDeFresa.txt el formato de tu duda será en un pdf cifrado con una contraseña que se dirá verbalmente en una junta 
+- 📫 Cualquier duda con respecto a este Manual y Reglamento escribeme con el Asunto "TuNombreDeCapucha".txt ejemplo: StarbucksDeFresa.txt usa mailvelope para enviarmelo de una manera segura (lo encontrarás en recursos y materiales) 
 
 * * * * * * * * * * * * * * * * * * * * DICCIONARIO 
   
@@ -53,9 +53,11 @@ en conclusión si el desarrollador de la app está en arabia saudita, rusia, ukr
 -  hackchat (es un chat encriptado que no almacena cookies) : https://hack.chat/
 - SILENCE (es una app para encriptar mensajes sms): https://silence.im/#download
 - OONIPROBE (es una herramienta de monitoreo anticensura y anti mecanismos de vigilancia de cualquier tipo aqui puedes ver si efectivamente estamos siendo censuradas y recopilar pruebas de eso):https://ooni.org/install/
+- Mailvelope (es un software gratuito para el cifrado de mail): https://mailvelope.com/
 - tor (es un navegador de internet que funciona con un protocolo de seguridad llamado enrutador cebolla que es diferente al más común diseñado para proteger el intercambio de datos seguro y el anonimato del usuario): https://www.torproject.org/download/
+- OpenPGP (otro software pero para encriptacion de todo tu sistema operativo): https://www.openpgp.org/
 - VIRTUAL MACHINE Ó VIRTUALBOX (es una herramienta en la que puedes instalar un sistema operativo que servirá como una compu chiquita dentro de tu compu, se puede usar para hacer archivos o navegar en la red y que no se vincule con los datos de tu computadora personal): https://www.virtualbox.org/wiki/Downloads 
--KeePass (es una herramienta de generador de contraseñas cifradas, archivos clave y tambien sirve como base de datos donde puedes almacenar tus contraseñas. no funciona con internet a si que no se almacena en ningun servidor ni en la nube): https://keepass.info/ 
+-KeePass (es una herramienta de generador de contraseñas cifradas, archivos clave y tambien sirve como base de datos donde puedes almacenar tus contraseñas. no funciona con internet a si que no se almacena en ningun servidor ni en la nube): https://keepass.info/
 
 REGLAS UNIVERSALES DE LA ACTIVISTA
 
