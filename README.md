@@ -57,7 +57,7 @@ en conclusión si el desarrollador de la app está en arabia saudita, rusia, ukr
 - tor (es un navegador de internet que funciona con un protocolo de seguridad llamado enrutador cebolla que es diferente al más común diseñado para proteger el intercambio de datos seguro y el anonimato del usuario): https://www.torproject.org/download/
 - OpenPGP (otro software pero para encriptacion de todo tu sistema operativo): https://www.openpgp.org/
 - VIRTUAL MACHINE Ó VIRTUALBOX (es una herramienta en la que puedes instalar un sistema operativo que servirá como una compu chiquita dentro de tu compu, se puede usar para hacer archivos o navegar en la red y que no se vincule con los datos de tu computadora personal): https://www.virtualbox.org/wiki/Downloads 
--KeePass (es una herramienta de generador de contraseñas cifradas, archivos clave y tambien sirve como base de datos donde puedes almacenar tus contraseñas. no funciona con internet a si que no se almacena en ningun servidor ni en la nube): https://keepass.info/
+- KeePass (es una herramienta de generador de contraseñas cifradas, archivos clave y tambien sirve como base de datos donde puedes almacenar tus contraseñas. no funciona con internet a si que no se almacena en ningun servidor ni en la nube): https://keepass.info/
 
 REGLAS UNIVERSALES DE LA ACTIVISTA
 
