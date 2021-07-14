@@ -4,7 +4,7 @@
 - 💞️ Esta archiva es para crear una red de activistas con lo menos de vulneracion de datos posibles 
 - 📫 Cualquier duda con respecto a este Manual y Reglamento escribeme con el Asunto "TuNombreDeCapucha".txt ejemplo: StarbucksDeFresa.txt el formato de tu duda será en un pdf cifrado con una contraseña que se dirá verbalmente en una junta 
 
-* * * * * * * * * * * * * * * * * * * * DICCIONARIO * * * * * * * * * * * * * * * * * * * * * * * * 
+* * * * * * * * * * * * * * * * * * * * DICCIONARIO 
   
 -IP (me gusta decir que la IP es como el pasaporte que usas para poder _navegar_ en internet): el IP viene de las siglas Internet Protocol. es un codigo numerico que almacena 2 datos importantes tuyos 1 tu ubicacion exacta GPS y el dispositivo desde el que se está  navegando.
 
