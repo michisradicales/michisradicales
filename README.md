@@ -47,6 +47,7 @@ en conclusión si el desarrollador de la app está en arabia saudita, rusia, ukr
 >>>>>>>> MATERIALES Y RECURSOS
 
 - git (es un almacenador de datos que no ocupa casi nada de espacio y lo puedes clonar tal cual a tu computadora y tener acceso a el sin necesidad de internet): https://git-scm.com/downloads
+- GitHub (esta página de internet. es una plataforma de codigo libre donde se pueden subir los archivos que se pueden clonar a tu computadora): https://github.com/
 - BRIAR (es una app de mensajeria creada para la comunicación de información delicada para personas como activistas o reporteros funciona es perfecta para algun tipo de censura de datos o hasta apagón de internet en casos muy extremos y funciona bajo el protocolo p2p): https://briarproject.org/ 
 - Psiphone (es una opción de VPN gratuito y completamente confiable para la navegacion en internet y proteccion de datos, tambien sirve como herramienta anticensura): https://psiphon3.com/es/download.html
 -  hackchat (es un chat encriptado que no almacena cookies) : https://hack.chat/
@@ -54,7 +55,6 @@ en conclusión si el desarrollador de la app está en arabia saudita, rusia, ukr
 - OONIPROBE (es una herramienta de monitoreo anticensura y anti mecanismos de vigilancia de cualquier tipo aqui puedes ver si efectivamente estamos siendo censuradas y recopilar pruebas de eso):https://ooni.org/install/
 - tor (es un navegador de internet que funciona con un protocolo de seguridad llamado enrutador cebolla que es diferente al más común diseñado para proteger el intercambio de datos seguro y el anonimato del usuario): https://www.torproject.org/download/
 - VIRTUAL MACHINE Ó VIRTUALBOX (es una herramienta en la que puedes instalar un sistema operativo que servirá como una compu chiquita dentro de tu compu, se puede usar para hacer archivos o navegar en la red y que no se vincule con los datos de tu computadora personal): https://www.virtualbox.org/wiki/Downloads 
-
 -KeePass (es una herramienta de generador de contraseñas cifradas, archivos clave y tambien sirve como base de datos donde puedes almacenar tus contraseñas. no funciona con internet a si que no se almacena en ningun servidor ni en la nube): https://keepass.info/ 
 
 REGLAS UNIVERSALES DE LA ACTIVISTA
@@ -114,6 +114,26 @@ Facebook, Twitter, Instagram, Myspace, Tumblr, LinkedIn etc.
 
 
 17 Cuando salgas a un cafe o algo equis vas a tomar fotos que jamás subirás y cuando vaya a ser una marcha vas a usar esas fotos y programar stories con https://pro.iconosquare.com/ para constatar que tu no estabas en esa marcha
+
+
+18 Ten códigos con tu contacta de emergencia ejemplo:
+  
+  0000 significa que te están encapsulando
+  1111 significa que ya vas de regreso a tu casa de una manifestación y vas segura con una amiga
+  1414 significa que vas de regreso sola de una manifestación y no te sientes segura
+  8989 significa que temes por tu vida que active alguna protocola de seguridad como alerta amber o algo del estilo
+  4444 significa que estás bien
+
+19 Siempre que vayas a una manifestación da los datos de 2 contactas de emergencia 
+  
+  una que sepas que si las cosas se ponen feas como que te vayas detenida debido a represion policiaca pueda mantener la calma y saber que hacer (que sea una familiar tuya que
+  viva en el estado o en tu ciudad de preferencia)
+  
+  una que sea familiar directo como tu mamá o hermana 
+
+20 verifica que tu colectiva no siga a ninguna cuenta personal de las integrantas de la colectiva en redes sociales
+
+
 
 <!---
 michisradicales/michisradicales es una espacia ✨ de mujeres y para mujeres ✨,,, `README.md` (este archivo) vendrán los materiales y recursos necesarios para las activistas y estara en mi perfil
