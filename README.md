@@ -8,7 +8,7 @@
   
 -IP (me gusta decir que la IP es como el pasaporte que usas para poder _navegar_ en internet): el IP viene de las siglas Internet Protocol. es un codigo numerico que almacena 2 datos importantes tuyos 1 tu ubicacion exacta GPS y el dispositivo desde el que se está  navegando.
 
--VPN (si el IP es tu pasaporte, el VPN es una herramienta que te hace un pasaporte tuyo pero con datos falsos): el VPN viene de las sigras Virtual Private Network. es una
+-VPN (si el IP es tu pasaporte, el VPN es una herramienta que te hace un pasaporte tuyo pero con datos falsos): el VPN viene de las siglas Virtual Private Network. es una
 funcionalidad de la red que te ayuda a navegar en internet con un codigo que no arroje tu ubicación GPS real. 
 OJO esta herramienta solamente sirve para navegar seguramente en internet, no sirve para enviarle a tu mamá la ubicación de whatsapp de que estas en la casa de una amiga en lugar de en una peda en Tulum 
 
@@ -108,6 +108,8 @@ Facebook, Twitter, Instagram, Myspace, Tumblr, LinkedIn etc.
 
 
 15 JAMÁS subas fotos de la fachada de tu casa JAMÁS o compartas screenshots de que estas pidiendo un uber y se vea de alguna manera las calles colindantes. si lo vas a compartir a alguna amiga o a tu mamá solo comparte los datos de el carro en el que vas. 
+
+
 16 Elige un Nombre Completo que será tu nombre falso de activista y un apodo correspondiente. También una dirección real (osea que si exista) pero que no tenga nada que ver con la tuya.
 
 
