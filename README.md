@@ -44,9 +44,9 @@ en conclusión si el desarrollador de la app está en arabia saudita, rusia, ukr
 
 -Proxy (si la IP es nuestro pasaporte para navegar en internet digamos que el proxy es nuestro pasaporte pero con un peinado diferente): a diferencia del VPN que da una IP que no tiene nada que ver con tu IP actual el proxy digamos que da una IP diferente a la tuya pero sigue teniendo datos con los que se puede saber que eres tù
 
-  MATERIALES Y RECURSOS
+>>>>>>>> MATERIALES Y RECURSOS
 
-- git (es un almacenador de datos que no ocupa casi nada de espacio y lo puedes clonar tal cual a tu computadora sin necesidad de internet): https://git-scm.com/downloads
+- git (es un almacenador de datos que no ocupa casi nada de espacio y lo puedes clonar tal cual a tu computadora y tener acceso a el sin necesidad de internet): https://git-scm.com/downloads
 - BRIAR (es una app de mensajeria creada para la comunicación de información delicada para personas como activistas o reporteros funciona es perfecta para algun tipo de censura de datos o hasta apagón de internet en casos muy extremos y funciona bajo el protocolo p2p): https://briarproject.org/ 
 - Psiphone (es una opción de VPN gratuito y completamente confiable para la navegacion en internet y proteccion de datos, tambien sirve como herramienta anticensura): https://psiphon3.com/es/download.html
 -  hackchat (es un chat encriptado que no almacena cookies) : https://hack.chat/
@@ -54,6 +54,33 @@ en conclusión si el desarrollador de la app está en arabia saudita, rusia, ukr
 - OONIPROBE (es una herramienta de monitoreo anticensura y anti mecanismos de vigilancia de cualquier tipo aqui puedes ver si efectivamente estamos siendo censuradas y recopilar pruebas de eso):https://ooni.org/install/
 - tor (es un navegador de internet que funciona con un protocolo de seguridad llamado enrutador cebolla que es diferente al más común diseñado para proteger el intercambio de datos seguro y el anonimato del usuario): https://www.torproject.org/download/
 - VIRTUAL MACHINE Ó VIRTUALBOX (es una herramienta en la que puedes instalar un sistema operativo que servirá como una compu chiquita dentro de tu compu, se puede usar para hacer archivos o navegar en la red y que no se vincule con los datos de tu computadora personal): https://www.virtualbox.org/wiki/Downloads 
+
+-KeePass (es una herramienta de generador de contraseñas cifradas, archivos clave y tambien sirve como base de datos donde puedes almacenar tus contraseñas. no funciona con internet a si que no se almacena en ningun servidor ni en la nube): https://keepass.info/ 
+
+REGLAS UNIVERSALES DE LA ACTIVISTA
+1 JAMÁS subir una foto encapuchada a ningun lugar de dominio publico ejemplo:
+Facebook, Twitter, Instagram, Myspace, Tumblr, LinkedIn etc.
+/// NO me importa que lo tengas privado y solo vean tus stories tu mamá y tu novia ///
+2 JAMÁS descargues una app de un desarrollador desconocido o apps crackeadas por ejemplo: whatsapp de hellokitty o twitter donde puedes ver los twits borrados etc.
+3 JAMÁS insinues o publiques que formas parte de una colectiva feminista esto va desde publicar en la pagina de tu colectiva "somos increibles" o twitear "el otro dia en el chat de la colectiva estuvimos todas deacuerdo que comer carne es misoginia"
+4 JAMÁS publiques screenshots de conversaciones donde estén hablando de accionar
+5 JAMÁS aceptes en texto o en un voicenote que formas parte del bloque negro, tu no sabes que es eso. ni tienes idea de nada relacionado
+6 TODOS los links para una junta de tu colectiva se comparte el link en hackchat jamás directamente en whatsapp ni telegram e intentar que todas las juntas esten protegidas con contraseña
+7 Todas las contraseñas serán cifradas y con autentificador de dos o 3 pasos para poder acceder o no serán. (google autentificator es una buena opción también)
+8 Si vas a una marcha cubre tus tatuajes
+9 Si vas de bloque cambia tu funda de celular
+10 JAMÁS escribas tus datos en la muñeca escribetelos en la panza o debajo del calcetin
+11 Tu outfit de Bloque será designado UNICA Y EXCLUSIVAMENTE para ser bloque. si son tus botas favoritas y las usas para el diario mejor cambia tu outfit de bloque.
+12 Designa un celular que será el que llevaras a las marchas si puedes
+13 Si tienes la app de gmail en tu celular haz esto: 
+  + le das click en tu foto de perfil
+  + pulsa gestionar cuenta
+  + pulsa privacidad y personalización 
+  + desactiva todos los controles de actividad
+14 Si eres fan de tomarle fotos al cielo en los dias lluviosos o el balcon de tu depa esta super mamalon y se ve toda la ciudad JAMÁS lo vuelvas a hacer (por la foto el panorama o la aproximación de edificios o casas que se lleguen a ver se puede saber exactamente donde vives con una visitada a Google maps o google earth o un dron)
+15 JAMÁS subas fotos de la fachada de tu casa JAMÁS o compartas screenshots de que estas pidiendo un uber y se vea de alguna manera las calles colindantes. si lo vas a compartir a alguna amiga o a tu mamá solo comparte los datos de el carro en el que vas. 
+16 Elige un Nombre Completo que será tu nombre falso de activista y un apodo correspondiente. También una dirección real (osea que si exista) pero que no tenga nada que ver con la tuya.
+17 Cuando salgas a un cafe o algo equis vas a tomar fotos que jamás subirás y cuando vaya a ser una marcha vas a programar stories con https://pro.iconosquare.com/ para constatar que tu no estabas en esa marcha
 
 <!---
 michisradicales/michisradicales es una espacia ✨ de mujeres y para mujeres ✨,,, `README.md` (este archivo) vendrán los materiales y recursos necesarios para las activistas y estara en mi perfil
