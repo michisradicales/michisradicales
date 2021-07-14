@@ -111,7 +111,7 @@ Facebook, Twitter, Instagram, Myspace, Tumblr, LinkedIn etc.
 16 Elige un Nombre Completo que será tu nombre falso de activista y un apodo correspondiente. También una dirección real (osea que si exista) pero que no tenga nada que ver con la tuya.
 
 
-17 Cuando salgas a un cafe o algo equis vas a tomar fotos que jamás subirás y cuando vaya a ser una marcha vas a programar stories con https://pro.iconosquare.com/ para constatar que tu no estabas en esa marcha
+17 Cuando salgas a un cafe o algo equis vas a tomar fotos que jamás subirás y cuando vaya a ser una marcha vas a usar esas fotos y programar stories con https://pro.iconosquare.com/ para constatar que tu no estabas en esa marcha
 
 <!---
 michisradicales/michisradicales es una espacia ✨ de mujeres y para mujeres ✨,,, `README.md` (este archivo) vendrán los materiales y recursos necesarios para las activistas y estara en mi perfil
