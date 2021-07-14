@@ -1,10 +1,10 @@
 - 👋 Hola morritas ciberpunks, yo como ya sabrán soy la @michisradicales
 - 👀 Recuerden que ser anonima es la mejor arma que tenemos las activistas
 - 🌱 Esta archiva es una manual y reglamenta. todas mis fuentes son completamente seguras jamás les daría algo que vulnere sus datos
-- 💞️ Esta archiva es para crear una red de activistas con lo menos de vulneracion de datos posibles ...
-- 📫 Cualquier duda con respecto a este Manual y Reglamento escribeme con el Asunto "TuNombreDeCapucha".txt ejemplo: StarbucksDeFresa.txt el formato de tu duda será en un pdf cifrado con una contraseña que se dirá verbalmente en una junta ...
+- 💞️ Esta archiva es para crear una red de activistas con lo menos de vulneracion de datos posibles 
+- 📫 Cualquier duda con respecto a este Manual y Reglamento escribeme con el Asunto "TuNombreDeCapucha".txt ejemplo: StarbucksDeFresa.txt el formato de tu duda será en un pdf cifrado con una contraseña que se dirá verbalmente en una junta 
 
-  DICCIONARIO
+* * * * * * * * * * * * * * * * * * * * DICCIONARIO * * * * * * * * * * * * * * * * * * * * * * * * 
   
 -IP (me gusta decir que la IP es como el pasaporte que usas para poder _navegar_ en internet): el IP viene de las siglas Internet Protocol. es un codigo numerico que almacena 2 datos importantes tuyos 1 tu ubicacion exacta GPS y el dispositivo desde el que se está  navegando.
 
@@ -40,7 +40,7 @@ en conclusión si el desarrollador de la app está en arabia saudita, rusia, ukr
 
 -P2P: es la red de comunicación mas viejita se le llama red de pares no necesita un servidor central como fuente de intercambio de datos, cada dispositivo del que se este usando aquel intercambio de datos sirve como servidor independiente. cabe mencionar que NO solo es de pares pueden ser muchos los conectados se llama red de pares por que empieza en un par
 
--Router: es una fuente de red de internet (la mayoria funcionan bajo el conjunto de protocolos mas comun que es TCP-IP)
+-Router: es una fuente de red de internet (la mayoria funcionan bajo el conjunto de protocolos más comun que es TCP-IP)
 
 -Proxy (si la IP es nuestro pasaporte para navegar en internet digamos que el proxy es nuestro pasaporte pero con un peinado diferente): a diferencia del VPN que da una IP que no tiene nada que ver con tu IP actual el proxy digamos que da una IP diferente a la tuya pero sigue teniendo datos con los que se puede saber que eres tù
 
@@ -52,9 +52,9 @@ en conclusión si el desarrollador de la app está en arabia saudita, rusia, ukr
 -  hackchat (es un chat encriptado que no almacena cookies) : https://hack.chat/
 - SILENCE (es una app para encriptar mensajes sms): https://silence.im/#download
 - OONIPROBE (es una herramienta de monitoreo anticensura y anti mecanismos de vigilancia de cualquier tipo aqui puedes ver si efectivamente estamos siendo censuradas y recopilar pruebas de eso):https://ooni.org/install/
-- tor (es un navegador de internet que funciona con un protocolo de seguridad para proteger el anonimato y protege toda la información que viaja por este): 
+- tor (es un navegador de internet que funciona con un protocolo de seguridad llamado enrutador cebolla que es diferente al más común diseñado para proteger el intercambio de datos seguro y el anonimato del usuario): https://www.torproject.org/download/
+- VIRTUAL MACHINE Ó VIRTUALBOX (es una herramienta en la que puedes instalar un sistema operativo que servirá como una compu chiquita dentro de tu compu, se puede usar para hacer archivos o navegar en la red y que no se vincule con los datos de tu computadora personal): https://www.virtualbox.org/wiki/Downloads 
 
 <!---
-michisradicales/michisradicales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+michisradicales/michisradicales es una espacia ✨ de mujeres y para mujeres ✨,,, `README.md` (este archivo) vendrán los materiales y recursos necesarios para las activistas y estara en mi perfil
 --->
