@@ -78,7 +78,7 @@ Facebook, Twitter, Instagram, Myspace, Tumblr, LinkedIn etc.
 5 JAMÁS aceptes en texto o en un voicenote que formas parte del bloque negro, tu no sabes que es eso. ni tienes idea de nada relacionado
 
 
-6 TODOS los links para una junta de tu colectiva se comparte el link en hackchat jamás directamente en whatsapp ni telegram e intentar que todas las juntas esten protegidas con contraseña
+6 TODOS los links para una junta de tu colectiva se comparte el link en hackchat o leapchat jamás directamente en whatsapp ni telegram e intentar que todas las juntas esten protegidas con contraseña
 
 
 7 Todas las contraseñas serán cifradas y con autentificador de dos o 3 pasos para poder acceder o no serán. (google autentificator es una buena opción también)
@@ -87,7 +87,7 @@ Facebook, Twitter, Instagram, Myspace, Tumblr, LinkedIn etc.
 8 Si vas a una marcha cubre tus tatuajes
 
 
-9 Si vas de bloque cambia tu funda de celular
+9 Si vas de bloque cambia tu funda de celular o de plano lleva un celular sin gps
 
 
 10 JAMÁS escribas tus datos en la muñeca escribetelos en la panza o debajo del calcetin
@@ -125,6 +125,8 @@ Facebook, Twitter, Instagram, Myspace, Tumblr, LinkedIn etc.
   1414 significa que vas de regreso sola de una manifestación y no te sientes segura
   8989 significa que temes por tu vida que active alguna protocola de seguridad como alerta amber o algo del estilo
   4444 significa que estás bien
+  
+  *NO GUARDES A TU CONTACTA BAJO EL PARENTESCO CONTIGA NI POR SU NOMBRE REAL
 
 19 Siempre que vayas a una manifestación da los datos de 2 contactas de emergencia 
   
@@ -135,6 +137,14 @@ Facebook, Twitter, Instagram, Myspace, Tumblr, LinkedIn etc.
 
 20 verifica que tu colectiva no siga a ninguna cuenta personal de las integrantas de la colectiva en redes sociales
 
+
+21 designen un celular que va a ser el celular de los lives y el de la colectiva. siempre tengan activado el VPN y jamas abran cuentas oficiales de la colectiva en ningun celular personal de nadie
+
+
+22 recuerda que lo analogo es lo mas dificil de hackear. los codigos de silbatos siempre sera mejor opcion en lugar de cualquier walkietalkie o mensaje cifrado y p2p va a ser tu mejor amiga
+
+
+23 tener palabras claves para cosas. NO LAS CENSUREN COMO: *g4t1t0s* cambienles de nombre completamente. una reunion será ir a tomar agua a las michoacanas, una reunion virtual será jugar club penguin. 
 
 
 <!---
